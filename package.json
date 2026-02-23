@@ -1,0 +1,25 @@
+{
+  "name": "can2tan",
+  "version": "1.0.0",
+  "description": "Converts the string \"can\" to \"tan\"",
+  "keywords": [
+    "node.js",
+    "javascript",
+    "npm",
+    "package",
+    "can",
+    "tan"
+  ],
+  "homepage": "https://github.com/iuse4rchbtw/can2tan#readme",
+  "bugs": {
+    "url": "https://github.com/iuse4rchbtw/can2tan/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuse4rchbtw/can2tan.git"
+  },
+  "license": "MIT",
+  "author": "iuse4rchbtw",
+  "type": "commonjs",
+  "main": "index.js"
+}
