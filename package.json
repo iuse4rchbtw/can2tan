@@ -1,7 +1,7 @@
 {
   "name": "can2tan",
-  "version": "1.0.0",
-  "description": "Converts the string \"can\" to \"tan\"",
+  "version": "1.0.1",
+  "description": "Converts the string 'can' to 'tan'.",
   "keywords": [
     "node.js",
     "javascript",
